@@ -45,10 +45,40 @@
 
 // 
 
-let arrays =  [25,26,25,26,6,9,4]
+// let ab =  [25,26,25,26,6,9,4]
 
 
 
-arrays.map((values)=>{
-    console.log(values)
-})
+// arrays.map((values)=>{
+//     console.log(values)
+// })
+
+// let a = ["azhan","Abdul Moiz","Shayan","Arham","Fariz"]
+
+// // for(i=0; i<a.length ;i++){
+// //     console.log(a[i])
+// // }
+
+// // a.map((items)=>{
+// //     console.log(items)
+// // })
+
+// a.map(function(i,k){
+//     console.log(i,k)
+// })
+
+
+
+
+
+
+// ************ForEachLoop***********
+
+// let a = ["azhan","Abdul Moiz","Shayan","Arham","Fariz"]
+
+
+
+// a.forEach((element,k) => {
+//     console.log(element,k)
+    
+// });
